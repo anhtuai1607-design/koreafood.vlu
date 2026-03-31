@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/admin/static/css/main.85adcff9.css",
+    "main.js": "/admin/static/js/main.bcf6aaa1.js",
+    "static/js/453.a837e8f0.chunk.js": "/admin/static/js/453.a837e8f0.chunk.js",
+    "static/media/anime.jpg": "/admin/static/media/anime.82bdcd14d172d9a3ee77.jpg",
+    "index.html": "/admin/index.html",
+    "main.85adcff9.css.map": "/admin/static/css/main.85adcff9.css.map",
+    "main.bcf6aaa1.js.map": "/admin/static/js/main.bcf6aaa1.js.map",
+    "453.a837e8f0.chunk.js.map": "/admin/static/js/453.a837e8f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85adcff9.css",
+    "static/js/main.bcf6aaa1.js"
+  ]
+}
